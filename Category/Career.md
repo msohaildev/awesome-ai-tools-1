@@ -6,6 +6,7 @@ A curated list of AI-powered tools for career. Contribute to this list via our [
 |-----------|----------------------------|---------|
 | Braudit AI | Get Free Career Insights & Guidance with Braudit | [https://braudit.app/](https://braudit.app/) |
 | ProfileReadme | Template-driven profile pages and developer bio builder | [https://f726103e.profilereadme.pages.dev](https://f726103e.profilereadme.pages.dev) |
+| NeverApply | AI job agent: match, tailor resumes, auto-apply | [https://neverapply.co](https://neverapply.co) |
 
 ## More Resources
 - [Back to Categories](https://github.com/ToolkitlyAI/awesome-ai-tools/blob/master/README.md)
